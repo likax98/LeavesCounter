@@ -1,0 +1,15 @@
+/Users/lika/Projects/Tree_Homework/Tree_Homework/bin/Debug/net5.0/Tree_Homework.deps.json
+/Users/lika/Projects/Tree_Homework/Tree_Homework/bin/Debug/net5.0/Tree_Homework.runtimeconfig.json
+/Users/lika/Projects/Tree_Homework/Tree_Homework/bin/Debug/net5.0/Tree_Homework.runtimeconfig.dev.json
+/Users/lika/Projects/Tree_Homework/Tree_Homework/bin/Debug/net5.0/Tree_Homework.dll
+/Users/lika/Projects/Tree_Homework/Tree_Homework/bin/Debug/net5.0/ref/Tree_Homework.dll
+/Users/lika/Projects/Tree_Homework/Tree_Homework/bin/Debug/net5.0/Tree_Homework.pdb
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.csproj.AssemblyReference.cache
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.AssemblyInfoInputs.cache
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.AssemblyInfo.cs
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.csproj.CoreCompileInputs.cache
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.dll
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/ref/Tree_Homework.dll
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.pdb
+/Users/lika/Projects/Tree_Homework/Tree_Homework/obj/Debug/net5.0/Tree_Homework.genruntimeconfig.cache
